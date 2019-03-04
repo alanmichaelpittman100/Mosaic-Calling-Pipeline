@@ -19,18 +19,7 @@ inBAMsDir=/homes/athosnew/Genetics_Centre_Bioinformatics/mosaic_calling/panel_of
 PoNVCF=/homes/athosnew/Genetics_Centre_Bioinformatics/mosaic_calling/panel_of_normals_vcfs/
 PoNjointVCF=/homes/athosnew/Genetics_Centre_Bioinformatics/mosaic_calling/panel_of_normals_joint_vcfs/
 
-PoNsamples="M0008
-M0009
-M0010
-M0012
-M0014
-M0017
-M0018
-M0023
-M0027
-S2459
-S2469
-S2473"
+PoNsamples="MyNormalSample1 MyNormalSample2 MyNormalSample3 MyNormalSample4" # works best with 100 control exomes
 
 for sample in $PoNsamples; do
 
