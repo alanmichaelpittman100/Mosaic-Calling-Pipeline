@@ -3,7 +3,7 @@ Protocol for identification of somatic/mosaic variants in blood-biopsy pairs
 
 ##Requirements
 
-human_g1k_v37.fasta ()
+human_g1k_v37.fasta
 
 java
 
