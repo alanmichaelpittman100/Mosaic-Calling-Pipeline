@@ -63,7 +63,6 @@ $java -jar $gatk Mutect2 \
 	-O $mutect2Out/${myIDnormal}_${myIDtumor}_raw_muTect2.vcf \
 	-bamout $mutect2Out/${myIDnormal}_${myIDtumor}_.bam
 
-#germlineresource ????
 	
 exit
 exit
